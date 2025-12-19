@@ -1,4 +1,3 @@
-Add registration test cases
 # Registration Test Cases (nopCommerce Demo Store)
 
 ## AUT
